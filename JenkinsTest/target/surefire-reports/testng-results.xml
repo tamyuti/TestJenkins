@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="21" started-at="2016-11-20T23:18:47Z" finished-at="2016-11-20T23:18:47Z">
+  <suite name="Suite" duration-ms="18" started-at="2016-11-21T12:54:54Z" finished-at="2016-11-21T12:54:54Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="21" started-at="2016-11-20T23:18:47Z" finished-at="2016-11-20T23:18:47Z">
+    <test name="Test" duration-ms="18" started-at="2016-11-21T12:54:54Z" finished-at="2016-11-21T12:54:54Z">
       <class name="JenkinsTest.JenkinsTest.SumTest">
-        <test-method status="PASS" signature="createObj()[pri:0, instance:JenkinsTest.JenkinsTest.SumTest@6bf256fa]" name="createObj" is-config="true" duration-ms="10" started-at="2016-11-20T18:18:47Z" finished-at="2016-11-20T18:18:47Z">
+        <test-method status="PASS" signature="createObj()[pri:0, instance:JenkinsTest.JenkinsTest.SumTest@6aaa5eb0]" name="createObj" is-config="true" duration-ms="9" started-at="2016-11-21T07:54:54Z" finished-at="2016-11-21T07:54:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createObj -->
-        <test-method status="PASS" signature="negAdd()[pri:0, instance:JenkinsTest.JenkinsTest.SumTest@6bf256fa]" name="negAdd" duration-ms="1" started-at="2016-11-20T18:18:47Z" finished-at="2016-11-20T18:18:47Z">
+        <test-method status="PASS" signature="negAdd()[pri:0, instance:JenkinsTest.JenkinsTest.SumTest@6aaa5eb0]" name="negAdd" duration-ms="2" started-at="2016-11-21T07:54:54Z" finished-at="2016-11-21T07:54:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- negAdd -->
-        <test-method status="PASS" signature="posAdd()[pri:0, instance:JenkinsTest.JenkinsTest.SumTest@6bf256fa]" name="posAdd" duration-ms="0" started-at="2016-11-20T18:18:47Z" finished-at="2016-11-20T18:18:47Z">
+        <test-method status="PASS" signature="posAdd()[pri:0, instance:JenkinsTest.JenkinsTest.SumTest@6aaa5eb0]" name="posAdd" duration-ms="0" started-at="2016-11-21T07:54:54Z" finished-at="2016-11-21T07:54:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- posAdd -->

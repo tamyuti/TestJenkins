@@ -22,7 +22,6 @@ public class SumTest {
 	public void negAdd(){
 		int num=s.add(-5, -10);
 		Assert.assertEquals(num, -15);
-		
 	}
 	
 
